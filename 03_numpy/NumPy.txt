@@ -1,0 +1,10 @@
+1. NumPy arrays are faster(optimized in C)
+2. NumPy stores data in continuous memory blocks
+3. Uses less memory (optimized storage)
+4. Build in mathemetical functions
+5. Supports direct vectorized operations
+
+NumPy is Faster bcz:
+1. Homogenous data types and contiguous memory
+2. vector operations & C implementations
+3. Reduced overhead
