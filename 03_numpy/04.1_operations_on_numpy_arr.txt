@@ -1,0 +1,6 @@
+Operations on NumPy Arrays
+
+- Reshaping
+- Indexing (1D & 2D array)
+- Fancy & Bollean indexing
+- Slicing
