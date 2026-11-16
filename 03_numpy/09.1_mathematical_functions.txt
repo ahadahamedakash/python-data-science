@@ -1,0 +1,33 @@
+# Aggregation
+np.sum()      # Returns the sum of all elements
+np.prod()     # Returns the product of all elements
+np.min()      # Returns the minimum value
+np.max()      # Returns the maximum value
+np.mean()     # Returns the arithmetic mean (average)
+np.std()      # Returns the standard deviation
+np.var()      # Returns the variance
+np.median()   # Returns the median value
+np.argmin()   # Returns the index of the minimum value
+np.argmax()   # Returns the index of the maximum value
+
+# Power
+np.square()   # Squares each element (x²)
+np.sqrt()     # Calculates the square root of each element
+np.pow()      # Raises elements of a to the power of b (a^b)
+
+# Log & Exponential
+np.log()      # Calculates the natural logarithm (base e)
+np.log10()    # Calculates the logarithm with base 10
+np.log2()     # Calculates the logarithm with base 2
+np.exp()      # Calculates e raised to the power of each element (e^x)
+
+# Rounding
+np.round()    # Rounds values to the nearest integer (or specified decimals)
+np.floor()    # Rounds values down to the nearest integer
+np.ceil()     # Rounds values up to the nearest integer
+np.trunc()    # Removes the decimal part (truncates toward zero)
+
+# Extras
+np.unique()   # Returns sorted unique elements (removes duplicates)
+np.sort()     # Returns a sorted copy of the array
+np.abs()      # Returns the absolute value of each element
