@@ -1,0 +1,8 @@
+## query() rules
+
+- Expression as a string
+- Column based reference
+- Bcticks for col_name wiht space or special chars
+- Operators (&, |, ~, >=, >, <, <=, == etc)
+- @ to reference Python vars
+- Chained comparisons

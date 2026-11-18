@@ -1,0 +1,10 @@
+## Cleaning data
+
+* handle missing values
+
+- isnul() / isna()
+- isnull().sum()
+- dropna()
+- fillna(value)
+- ffill()
+- bfill()
